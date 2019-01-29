@@ -17,3 +17,7 @@ Points:
 * point-2
 
 * point-3
+
+---
+
+lines
